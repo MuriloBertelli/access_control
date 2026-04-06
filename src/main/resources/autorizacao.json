@@ -1,0 +1,21 @@
+{
+    "mateus": {
+      "notas_alunos": ["r", "w"],
+      "diario_turma": ["r", "w", "d"],
+      "financeiro": [],
+      "sistema_logs": ["r"]
+    },
+    "joao": {
+      "notas_alunos": ["r"],
+      "diario_turma": ["r"],
+      "financeiro": [],
+      "sistema_logs": []
+    },
+    "alice_admin": {
+      "notas_alunos": ["r", "w", "d"],
+      "diario_turma": ["r", "w", "d"],
+      "financeiro": ["r", "w", "d"],
+      "sistema_logs": ["r", "w"]
+    }
+    
+  }
